@@ -33,12 +33,12 @@ Plataforma que centraliza a gestão do condomínio: avisos, assembleias, visitan
 
 ## 🌊 Por que a Baixada Santista
 
-| | |
-|---|---|
-| **667 mil** | domicílios na região |
-| **318 mil** | de uso ocasional (casas e apartamentos de temporada) |
-| **3,5 milhões** | de turistas na temporada 25/26 |
-| **2.248** | anúncios de Airbnb, com **48%** de ocupação média |
+<table>
+<tr><td><b>667 mil</b></td><td>domicílios na região</td></tr>
+<tr><td><b>318 mil</b></td><td>de uso ocasional (casas e apartamentos de temporada)</td></tr>
+<tr><td><b>3,5 milhões</b></td><td>de turistas na temporada 25/26</td></tr>
+<tr><td><b>2.248</b></td><td>anúncios de Airbnb, com <b>48%</b> de ocupação média</td></tr>
+</table>
 
 Muitos imóveis de temporada significam muita gente entrando e saindo: moradores, proprietários, inquilinos e hóspedes no mesmo prédio.
 
